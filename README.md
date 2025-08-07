@@ -1,1 +1,13 @@
-# Comandos-Ubuntu
+# **Comandos-Ubuntu**<br>
+- **sudo**: concede privilegio de administrador<br>
+- **apt**: gerenciador de pacotes<br>
+- <img width="183" height="21" alt="image" src="https://github.com/user-attachments/assets/6f8a2f6f-85a7-424f-a83b-a5bf75496a2b" /> atualiza a lista de pacotes disponíveis (só consulta, não instala nada)<br>
+- <img width="66" height="21" alt="image" src="https://github.com/user-attachments/assets/45e8d58b-eb7a-4f4e-9d2b-4fad04e3cb2f" /> instala as atualizações disponíveis para os pacotes que você já tem<br>
+- <img width="183" height="21" alt="image" src="https://github.com/user-attachments/assets/8cdf8a3a-61c2-44d0-9b3f-16c2a9fa8f44" /> reinicia o computador<br>
+- <img width="603" height="21" alt="image" src="https://github.com/user-attachments/assets/13cfec60-6798-49a0-b443-48afe2e84243" /><br>
+    - install build-essential: ferramenta para compilar código-fonte<br>
+    - dkms: recompilar de aplicações para compatibilidade com kernel de convidado (guest)<br>
+- <img width="347" height="21" alt="image" src="https://github.com/user-attachments/assets/a8f88ae8-d486-42e7-8c49-cdd5f14d04d7" /> acessa a pasta onde esta o aplicativo para instalar<br>
+- <img width="80" height="21" alt="image" src="https://github.com/user-attachments/assets/5f80816f-b0ab-4d83-be9c-f2e2f91d128e" /> o nome do usuário logado <br>
+- <img width="292" height="21" alt="image" src="https://github.com/user-attachments/assets/08525057-aa3b-4efa-b79a-6f8d6d54ae7c" /> executa o arquivo<br>
+- <img width="144" height="21" alt="image" src="https://github.com/user-attachments/assets/7d7e45b3-d5ec-4870-8289-d637573a4d04" /> serve para listar os modulos <br> 
