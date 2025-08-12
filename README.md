@@ -33,5 +33,17 @@
   - Utilizando um comando de Leitura: <img width="72" height="23" alt="Captura de tela de 2025-08-11 20-29-55" src="https://github.com/user-attachments/assets/fa868aed-1024-45dc-9ac3-6dde33f83414" />
   - Utilizamos um aplicativo de editor de texto instalado por padrão no Ubuntu para abrir o arquivo e editá-lo: <img width="49" height="30" alt="Captura de tela de 2025-08-11 20-20-36" src="https://github.com/user-attachments/assets/5cf52c9b-0d28-4cd6-9fb7-e580a184baf5" />
 - Baixamos um segundo aplicativo de editor/código: 
+# comandos 11/08/2025
+sudo groupadd criar grupo
+sudo mkdir home/ para criar um novo diretorio
+sudo chown :nome_do_grupo nome_da_pasta mudar proprietário
+sudo chmod Altera permisão
+D diretorio Read Write eXecute| R-XR-X
+adicionar um usuário a um grupo no SO
+sudo addgroup nome_do_grupo
+sudo addgroup $USER nome_do_grupo (Ubuntu/Debian desktop)
+ Para adicionar um usuário a vários grupos de uma vez só
+sudo usermod -aG nome_do_usuario nome_do_grupo1 nome_do_grupo2
+sudo usermod -aG nome_do_grupo1 nome_do_grupo2 $USER
 
  
